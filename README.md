@@ -8,7 +8,7 @@ To make GPTrip work, it is hosted on Vercel for the front end and Render for the
 
 Project Host Link - https://gptrip.vercel.app
 
-Screenshots 
+## Screenshots 
 
 Home  
 
