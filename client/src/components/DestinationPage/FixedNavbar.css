@@ -1,0 +1,24 @@
+.navbar-config {
+    background-color: transparent;
+    color: white !important;
+    /* height: 80px; */
+    transition: 1s ease;
+}
+
+.navbar-scrolled {
+    background-color: white;
+    transition: 1s ease;
+    color: black !important;
+    z-index: 100;
+    /* height: 80px; */
+}
+
+.test-white {
+    filter: invert(0%) sepia(0%) saturate(8%) hue-rotate(253deg) brightness(100%) contrast(100%);
+}
+
+.navbar-config.active {
+    background-color: #17191E;
+    transition: 0.1s;
+    color: white;
+}

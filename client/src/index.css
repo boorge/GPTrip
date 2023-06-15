@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  /* background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);; */
+  /* background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%); */
+  /* background-image: linear-gradient(to right, #fddb92 0%, #d1fdff 100%); */
+  /* background-image: linear-gradient(to right, #fff1eb 0%, #ace0f9 100%); */
+  /* background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%); */
+  /* background-image: linear-gradient(100deg, #13547a 0%, #80d0c7 100%); */
+
+  font-family: 'Play', sans-serif;
+}
