@@ -6,3 +6,4 @@ GPTrip also uses the Unsplash website to find pictures of the recommended place.
 
 To make GPTrip work, it is hosted on Vercel for the front end and Render for the server side. With the help of AI and other technology, GPTrip offers a unique way to plan your travels and discover new and exciting destinations just for you.
 
+## Project Host Link - https://gptrip.vercel.app
