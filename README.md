@@ -1,4 +1,4 @@
-# BACKPACK
+# GPTrip
 
 GPTrip is a website that helps you plan your travel. It uses advanced technology from OpenAI to understand what you like and gives you personalized recommendations. The website is made using React, Node.js, and Express. When you visit GPTrip, it asks you questions about where you want to go, when you want to travel, and what you want to do there. It then uses the answers to give you the best recommendation using the power of AI.
 
